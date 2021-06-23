@@ -1,7 +1,9 @@
 ### hi big gamer im vacgato i do stuff with the interwebs
 
-<img>https://forthebadge.com/images/badges/made-with-javascript.svg</img>
-<img>https://forthebadge.com/images/badges/made-with-java.svg</img>
-<img>https://forthebadge.com/images/badges/made-with-c-sharp.svg</img>
+![stats](https://github-readme-stats.vercel.app/api?username=VacCatGT&show_icons=true&theme=dracula&count_private=true)<br/>
 
-<img>https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg</img>
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
